@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1506217586 source:f:\新建文件夹 (3)\结构体练习,c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"game.h"
+
+1506091047 f:\新建文件夹 (3)\结构体练习,c\struct.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1506218544 source:f:\新建文件夹 (3)\结构体练习,c\game.c
+	"game.h"
+
+1506216279 f:\新建文件夹 (3)\结构体练习,c\game.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

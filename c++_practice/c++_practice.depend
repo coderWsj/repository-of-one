@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1522681415 source:f:\新建文件夹 (3)\c++_practice\main.cpp
+	<algorithm>
+	<string.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<vector>
+	<queue>
+	<map>
+	<set>
+	<cmath>
+	<cstring>
+
